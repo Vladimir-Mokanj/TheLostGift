@@ -9,17 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67276183-4889-4c98-929d-82e3e5b0acc9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/MyExportCSV.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/CSVReader.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/CSVReader.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ExportCSV.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ExportCSV.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/DataTableBase.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/DataTableBase.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/BaseItemDataStructure.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +147,7 @@
       <workItem from="1684782904024" duration="1723000" />
       <workItem from="1684785644149" duration="1888000" />
       <workItem from="1684824545105" duration="14245000" />
-      <workItem from="1684855576082" duration="2676000" />
+      <workItem from="1684855576082" duration="4386000" />
     </task>
     <servers />
   </component>
