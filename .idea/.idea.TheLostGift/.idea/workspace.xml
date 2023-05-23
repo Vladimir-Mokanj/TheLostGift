@@ -8,8 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67276183-4889-4c98-929d-82e3e5b0acc9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Armor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Jewelry.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Weapon.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Armor.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Jewelry.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Weapon.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/BaseItemStructure.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Item.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Item.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/ItemBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/ItemBase.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +32,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../Softwares/Engines/Epic Games/UE_5.2/Engine/Source/Runtime/Core/Public/Containers/Array.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../Softwares/Engines/Epic Games/UE_5.2/Engine/Source/Runtime/Core/Public/Containers/UnrealString.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Editor/DatasheetLoaderEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Item/Editor/ItemEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Item/Editor/ItemIndexEditor.cs" root0="SKIP_HIGHLIGHTING" />
@@ -31,9 +45,15 @@
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/ascend-the-end/Assets/_Production/Scripts/Turing/InventorySystem/ItemIndex.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/ascend-the-end/Assets/_Production/Scripts/Turing/InventorySystem/Items/Armour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/ascend-the-end/Assets/_Production/Scripts/Turing/InventorySystem/Items/Consumable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/TheLostGift/Public/Item/Item.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/TheLostGift/Public/Item/ItemBase.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
   </component>
   <component name="ProjectId" id="2PyLYPR0vobsNRt40ZD0IJcuqqn" />
   <component name="ProjectLevelVcsManager">
@@ -51,7 +71,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev/import-csv-data&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev/store-data-into-assets&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -148,6 +168,7 @@
       <workItem from="1684785644149" duration="1888000" />
       <workItem from="1684824545105" duration="14245000" />
       <workItem from="1684855576082" duration="4386000" />
+      <workItem from="1684875360560" duration="129000" />
     </task>
     <servers />
   </component>
@@ -159,14 +180,12 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Source/TheLostGift/Public/Item/BaseItemStructure.h</url>
-          <line>4</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CppProject">
+        <watch expression="ItemType" />
+        <watch expression="DataSheetName" />
+        <watch expression="PropIt" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
