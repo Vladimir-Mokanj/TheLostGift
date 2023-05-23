@@ -8,23 +8,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67276183-4889-4c98-929d-82e3e5b0acc9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/BaseDataTable_DT.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/BaseDataTable_STRUCT.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/Items_-_Dialogue__1_.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/Items_DT.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/TestingStruct.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/ItemBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/ItemBase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/MyObject.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/BaseItemStructure.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/BaseItemStructure.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Item.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Item.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/ItemBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/ItemBase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/MyObject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/MyExportCSV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/CSVReader.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/CSVReader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ExportCSV.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ExportCSV.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/DataTableBase.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/DataTableBase.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/BaseItemDataStructure.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +30,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Editor/DatasheetLoaderEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Item/Editor/ItemEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Item/Editor/ItemIndexEditor.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Item/Item.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Item/NetworkIdentifier.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Tools/CSV/CSVReader.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/Sprout - W1 Fear/Assets/_Production/_Scripts/Sprout/Tools/CSV/StringConverter.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/ascend-the-end/Assets/_Production/Scripts/Turing/InventorySystem/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/ascend-the-end/Assets/_Production/Scripts/Turing/InventorySystem/ItemIndex.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/ascend-the-end/Assets/_Production/Scripts/Turing/InventorySystem/Items/Armour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../Unity/Projects/ascend-the-end/Assets/_Production/Scripts/Turing/InventorySystem/Items/Consumable.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -54,31 +53,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "dev/import-csv-data",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev/import-csv-data&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Vladimir\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Vladimir\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\Vladimir\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Vladimir\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Vladimir\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Vladimir\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TheLostGift" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -157,7 +156,8 @@
       <workItem from="1684777151970" duration="1286000" />
       <workItem from="1684782904024" duration="1723000" />
       <workItem from="1684785644149" duration="1888000" />
-      <workItem from="1684824545105" duration="12097000" />
+      <workItem from="1684824545105" duration="14245000" />
+      <workItem from="1684855576082" duration="2676000" />
     </task>
     <servers />
   </component>
