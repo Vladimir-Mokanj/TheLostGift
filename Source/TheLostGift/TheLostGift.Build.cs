@@ -8,7 +8,7 @@ public class TheLostGift : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Kismet", "BlueprintGraph", "UnrealEd" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] { "HTTP" });
 
