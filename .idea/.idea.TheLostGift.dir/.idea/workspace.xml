@@ -8,20 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b23ab486-c64f-404f-a6cf-f70a48e810d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ItemDataImporter.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ItemDataImporter.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ReadCSVData.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ReadCSVData.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/BoneRing_PDT.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/CloverEarring_PDT.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/EnchantedEarring_PDT.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/GoldNecklace_PDT.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/RubyRing_PDT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/BoneDagger_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/BoneDagger_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/CrudeBow_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/CrudeBow_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/IronSword_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/IronSword_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/LumberAxe_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/LumberAxe_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/WoodenCrossbow_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/WoodenCrossbow_PDT.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataImporter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ReadCSVData.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ReadCSVData.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ReadCSVData.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ReadCSVData.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -527,7 +524,7 @@
       <workItem from="1685274007901" duration="9456000" />
       <workItem from="1685293617232" duration="614000" />
       <workItem from="1685301897833" duration="686000" />
-      <workItem from="1685302894605" duration="4175000" />
+      <workItem from="1685302894605" duration="6200000" />
     </task>
     <servers />
   </component>
