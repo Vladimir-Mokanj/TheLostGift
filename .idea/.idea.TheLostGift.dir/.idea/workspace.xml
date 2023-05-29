@@ -8,12 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b23ab486-c64f-404f-a6cf-f70a48e810d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/_Prototype/NewBlueprint.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Currency.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Currency.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/TheLostGift_GI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/TheLostGift_GI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Editor/DataImporter_EUW.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/_Levels/TestMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/_Levels/TestMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Editor/EditorStructs.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Editor/EditorStructs.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/TheLostGiftGameInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/TheLostGiftGameInstance.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Prototype/NewBlueprint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Prototype/NewBlueprint.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ItemDataImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ItemDataImporter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Armor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Armor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Jewelry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Jewelry.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
