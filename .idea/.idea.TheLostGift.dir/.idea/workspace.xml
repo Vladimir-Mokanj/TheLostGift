@@ -8,18 +8,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b23ab486-c64f-404f-a6cf-f70a48e810d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Libraries/GameLibrary.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Libraries/GameLibrary.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemArmor_BP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemCurrency_BP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemJewelry_BP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemWeapon_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MyGameItemBase.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Actors/Misc/Chest_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Actors/Misc/Chest_BP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/ArmorBase_BP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/CurrencyBase_BP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/ItemBase_BP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/JewelryBase_BP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/WeaponBase_BP.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/_Levels/TestMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/_Levels/TestMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/GameItems/GameItemBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/GameItems/GameItemBase.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Armor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Armor.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Currency.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Currency.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Jewelry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Jewelry.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Weapon.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Weapon.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Editor/EditorStructs.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Editor/EditorStructs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Libraries/GameLibrary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Libraries/GameLibrary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemArmor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemArmor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemBase.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemCurrency.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemCurrency.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemJewelry.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemJewelry.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemWeapon.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemWeapon.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Armor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Armor.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Currency.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Currency.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Item.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Item.h" afterDir="false" />
@@ -35,6 +49,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -186,7 +230,7 @@
       <workItem from="1685485611232" duration="770000" />
       <workItem from="1685558022855" duration="4722000" />
       <workItem from="1685612284245" duration="2990000" />
-      <workItem from="1685637455636" duration="2714000" />
+      <workItem from="1685637455636" duration="5651000" />
     </task>
     <servers />
   </component>
