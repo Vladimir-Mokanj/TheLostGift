@@ -18,5 +18,7 @@ Implementation of this system is so that it is easy to create/remove and balance
  \
 [Loot System 0.1](https://share.nuclino.com/p/Loot-System-01-3FWxb_y8TXWJV_qcAn-xTd)
 
-## Drop System 0.1
-Work in progress at the moment
+## Item Drop System 0.1
+Items are now being generated in the world. Their drops are simulated trough physics but they are disabled after X amount of time or when their velocity size is very small. More about this system can be found at:
+ \
+[Item Drop System 0.1]https://share.nuclino.com/p/Item-Drops-System-01-V9VegemmkZJuh_pkteoQwT
