@@ -1,5 +1,5 @@
 # TheLostGift
- 
+
 This project is my portfolio project as well as a project that will teach me how to use Unreal Engine 5 a bit better. It will have many systems that communicate with each other and many different patterns to ease that interaction. As design and implementation are in progress, this readme file will be updated as the system is complete and merged onto the main branch.
  \
  \
@@ -21,4 +21,4 @@ Implementation of this system is so that it is easy to create/remove and balance
 ## Item Drop System 0.1
 Items are now being generated in the world. Their drops are simulated trough physics but they are disabled after X amount of time or when their velocity size is very small. More about this system can be found at:
  \
-[Item Drop System 0.1]https://share.nuclino.com/p/Item-Drops-System-01-V9VegemmkZJuh_pkteoQwT
+[Item Drop System 0.1](https://share.nuclino.com/p/Item-Drops-System-01-V9VegemmkZJuh_pkteoQwT)
