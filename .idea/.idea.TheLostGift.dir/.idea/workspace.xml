@@ -8,62 +8,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b23ab486-c64f-404f-a6cf-f70a48e810d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Armor/ArmyShield/ArmyShield_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Armor/MercenaryShield/MercenaryShield_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Armor/RomanShield/RomanShield_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Armor/SimpleShield/SimpleShield_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Weapon/ArmySpear/ArmySpear_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Weapon/GladiatorAxe/GladiatorAxe_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Weapon/Gladius/Gladius_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Weapon/Longsword/Longsword_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Weapon/LumberAxe/LumberAxe_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Weapon/SimpleSword/SimpleSword_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/3D/Weapon/WoodenSpear/WoodenSpear_Mesh.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/ArmyShield_PDT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/MercenaryShield_PDT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/RoomanShield_PDT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/SimpleShield_PDT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/ArmySpear_PDT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/GladiatorAxe_PDT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/Gladius_PDT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/Longsword_PDT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/SimpleSword_PDT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/WoodenSpear_PDT.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/3D/Weapon/IronSword/IronSword_Mesh.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/3D/Weapon/IronSword/IronSword_Mesh.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Actors/Misc/Chest_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Actors/Misc/Chest_BP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherBoots_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherBoots_PDT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherGloves_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherGloves_PDT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherHat_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherHat_PDT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherPants_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherPants_PDT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherTunic_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherTunic_PDT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/BoneDagger_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/BoneDagger_PDT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/CrudeBow_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/CrudeBow_PDT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/IronSword_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/IronSword_PDT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/LumberAxe_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/LumberAxe_PDT.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/WoodenCrossbow_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/WoodenCrossbow_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/IC/PlayerCharacter_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/IC/PlayerCharacter_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemArmor_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemArmor_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemCurrency_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemCurrency_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemJewelry_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemJewelry_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemWeapon_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemWeapon_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/TheLostGift_GI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/TheLostGift_GI.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/_Levels/TestMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/_Levels/TestMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Prototype/NewBlueprint.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/GameItems/GameItemBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/GameItems/GameItemBase.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Armor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Armor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Currency.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Currency.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Jewelry.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Jewelry.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Weapon.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Weapon.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Editor/EditorStructs.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Editor/EditorStructs.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/GameItems/GameItemBase.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Armor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Armor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Currency.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Currency.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Item.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Item.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Jewelry.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Jewelry.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Weapon.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/Weapon.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,75 +32,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Source/TheLostGift/TheLostGift.Build.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/TheLostGift/TheLostGift.Build.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -269,6 +159,8 @@
       <workItem from="1685612284245" duration="2990000" />
       <workItem from="1685637455636" duration="8910000" />
       <workItem from="1685656378242" duration="920000" />
+      <workItem from="1685723138850" duration="846000" />
+      <workItem from="1685987692390" duration="5529000" />
     </task>
     <servers />
   </component>
