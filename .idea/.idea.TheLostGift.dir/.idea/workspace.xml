@@ -7,19 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b23ab486-c64f-404f-a6cf-f70a48e810d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/NewBlueprint1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Inventory/IItemFrame.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Inventory/ItemFrame.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/IItemFrame.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/ItemFrame.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/IC/PlayerCharacter_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/IC/PlayerCharacter_BP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/HUD_WB.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/HUD_WB.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/Item_WB.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/Item_WB.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/TheLostGift_GM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/TheLostGift_GM.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TheLostGift.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/TheLostGift.uproject" afterDir="false" />
-    </list>
+    <list default="true" id="b23ab486-c64f-404f-a6cf-f70a48e810d5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -411,7 +399,7 @@
       <workItem from="1685656378242" duration="920000" />
       <workItem from="1685723138850" duration="846000" />
       <workItem from="1685987692390" duration="5529000" />
-      <workItem from="1686252371171" duration="5797000" />
+      <workItem from="1686252371171" duration="6581000" />
     </task>
     <servers />
   </component>
