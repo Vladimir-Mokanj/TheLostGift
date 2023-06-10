@@ -8,22 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b23ab486-c64f-404f-a6cf-f70a48e810d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/ItemFrame_WB.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/IC/CharacterInventory.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/IC/CharacterInventory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/IInventory.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/InventoryStructs.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/NewBlueprint1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/IC/PlayerCharacter_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/IC/PlayerCharacter_BP.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/HUD_WB.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/HUD_WB.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/Item_WB.uasset" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/IC/PlayerCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/IC/PlayerCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Inventory/ItemFrame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Inventory/ItemFrame.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/IC/PlayerCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/IC/PlayerCharacter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/ItemFrame.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/ItemFrame.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Libraries/GameLibrary.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Libraries/GameLibrary.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/IInventory.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/IInventory.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +21,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -323,7 +332,7 @@
       <workItem from="1685987692390" duration="5529000" />
       <workItem from="1686252371171" duration="6581000" />
       <workItem from="1686327697015" duration="10874000" />
-      <workItem from="1686380183765" duration="8364000" />
+      <workItem from="1686380183765" duration="8729000" />
     </task>
     <servers />
   </component>
