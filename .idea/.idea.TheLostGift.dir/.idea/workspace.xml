@@ -9,15 +9,50 @@
   <component name="ChangeListManager">
     <list default="true" id="b23ab486-c64f-404f-a6cf-f70a48e810d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TheLostGift.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/IC/PlayerCharacter_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/IC/PlayerCharacter_BP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/ArmyShield_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/ArmyShield_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherBoots_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherBoots_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherGloves_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherGloves_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherHat_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherHat_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherPants_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherPants_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherTunic_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/LeatherTunic_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/MercenaryShield_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/MercenaryShield_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/RoomanShield_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/RoomanShield_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/SimpleShield_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Armor/SimpleShield_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/AncientRunes_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/AncientRunes_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/EnchantedQuills_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/EnchantedQuills_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/Gold_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/Gold_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/HonorStone_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/HonorStone_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/RoyalSeals_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Currency/RoyalSeals_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/BoneRing_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/BoneRing_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/CloverEarring_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/CloverEarring_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/EnchantedEarring_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/EnchantedEarring_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/GoldNecklace_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/GoldNecklace_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/RubyRing_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Jewelry/RubyRing_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/ArmySpear_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/ArmySpear_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/BoneDagger_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/BoneDagger_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/CrudeBow_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/CrudeBow_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/GladiatorAxe_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/GladiatorAxe_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/Gladius_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/Gladius_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/IronSword_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/IronSword_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/Longsword_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/Longsword_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/LumberAxe_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/LumberAxe_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/SimpleSword_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/SimpleSword_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/WoodenCrossbow_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/WoodenCrossbow_PDT.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/WoodenSpear_PDT.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Data/Weapon/WoodenSpear_PDT.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/HUD_WB.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Inventory/HUD_WB.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemWeapon_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/Items/GameItemWeapon_BP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_Production/Blueprints/TheLostGift_GI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_Production/Blueprints/TheLostGift_GI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/DataTableImporter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ItemDataImporter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ItemDataImporter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ReadCSVData.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ReadCSVData.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/IC/CharacterInventory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/IC/CharacterInventory.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Inventory/ItemFrame.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Inventory/ItemFrame.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Private/Item/Item.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/IC/CharacterInventory.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/IC/CharacterInventory.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/IItemFrame.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/IItemFrame.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/InventoryStructs.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/InventoryStructs.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/ItemFrame.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/ItemFrame.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/ItemBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TheLostGift/Public/Item/ItemBase.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,168 +63,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -376,9 +249,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Source/TheLostGift/Public/Inventory/IItemFrame.h</url>
-          <line>27</line>
-          <option name="timeStamp" value="19" />
+          <url>file://$PROJECT_DIR$/Source/TheLostGift/Private/Editor/ItemDataImporter.cpp</url>
+          <line>97</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
